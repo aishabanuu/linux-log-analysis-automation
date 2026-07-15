@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Linux temporary files
+*.tmp
+*.swp
+*.bak
+
+# Log backups
+logs/backups/*.tar.gz
+
+# Generated reports (keep folder structure)
+reports/*.txt
+
+# IDE files
+.vscode/
+.idea/
+
+# Python cache (future expansion)
+__pycache__/
+
+# Environment files
+.env
+
+# Shell history
+.bash_history
+
+# Temporary files
+*.temp
+*.cache
